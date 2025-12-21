@@ -397,7 +397,7 @@ All queries executed on MySQL 8.0 database:
 
 ---
 
-** [Back to Main README](../README.md)** | ** [View Key Findings](key_findings.md)**
+** [Back to Main README](sql-layoffs-analysis\readme.md")** | ** [View Key Findings](key_findings.md)**
 
 ---
 
