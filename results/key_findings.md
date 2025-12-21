@@ -249,4 +249,4 @@ Key takeaway: **Diversification (geographic, industry, company stage) is the bes
 
 ---
 
-** [Back to Main README](../README.md)** | ** [View Query Results](query_outputs.md)**
+** [Back to Main README](../readme.md)** | ** [View Query Results](query_outputs.md)**
