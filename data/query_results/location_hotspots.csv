@@ -1,0 +1,11 @@
+location,country,layoff_events,total_layoffs,companies_affected
+"SF Bay Area","United States",526,125601,419
+Seattle,"United States",63,34743,49
+"New York City","United States",216,29364,170
+Bengaluru,India,77,21787,53
+Amsterdam,Netherlands,11,17140,10
+Stockholm,Sweden,14,11052,12
+Boston,"United States",95,10785,79
+"Sao Paulo",Brazil,56,8981,45
+Austin,"United States",32,8980,29
+Chicago,"United States",30,6419,24

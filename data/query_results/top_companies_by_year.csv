@@ -1,0 +1,23 @@
+year,ranking,company,total_layoffs
+2023,1,Google,12000
+2023,2,Microsoft,10000
+2023,3,Ericsson,8500
+2023,4,Amazon,8000
+2023,4,Salesforce,8000
+2023,5,Dell,6650
+2022,1,Meta,11000
+2022,2,Amazon,10150
+2022,3,Cisco,4100
+2022,4,Peloton,4084
+2022,5,Carvana,4000
+2022,5,Philips,4000
+2021,1,Bytedance,3600
+2021,2,Katerra,2434
+2021,3,Zillow,2000
+2021,4,Instacart,1877
+2021,5,"WhiteHat Jr",1800
+2020,1,Uber,7525
+2020,2,Booking.com,4375
+2020,3,Groupon,2800
+2020,4,Swiggy,2250
+2020,5,Airbnb,1900

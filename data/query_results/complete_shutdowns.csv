@@ -1,0 +1,21 @@
+company,location,industry,total_laid_off,date,funds_raised_millions
+Katerra,"SF Bay Area",Construction,2434,2021-01-06,1600
+"Butler Hospitality","New York City",Food,1000,2022-08-07,50
+Deliv,"SF Bay Area",Retail,669,2020-05-13,80
+Jump,"New York City",Transportation,500,2020-07-05,11
+SEND,Sydney,Food,300,2022-04-05,3
+Stoqo,Jakarta,Food,250,2020-04-25,NULL
+HOOQ,Singapore,Consumer,250,2020-03-27,95
+"Stay Alfred",Spokane,Travel,221,2020-05-20,62
+Britishvolt,London,Transportation,206,2023-01-17,2400
+Planetly,Berlin,Other,200,2022-04-11,5
+Crejo.Fun,Bengaluru,Education,170,2022-06-30,3
+"Bridge Connector",Nashville,Healthcare,154,2020-11-17,45
+"Simple Feast",Copenhagen,Food,150,2022-07-09,173
+Reali,"SF Bay Area","Real Estate",140,2022-08-24,117
+Bluprint,Denver,Education,137,2020-05-26,108
+Soluto,"Tel Aviv",Support,120,2022-07-24,18
+"Deliveroo Australia",Melbourne,Food,120,2022-11-15,1700
+SummerBio,"SF Bay Area",Healthcare,101,2022-06-20,7
+"EMX Digital","New York City",Marketing,100,2023-02-13,NULL
+"Fifth Season",Pittsburgh,Food,100,2022-10-28,35
