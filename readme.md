@@ -240,7 +240,7 @@ Contributions welcome! Areas for improvement:
 **Lalima Singh**
 
  Email: lalimasingh2004@gmail.com  
- LinkedIn: [Lalima Singh](https://linkedin.com/in/yourprofile)  
+ LinkedIn: [Lalima Singh](https://linkedin.com/in/lalima-singh-031431288)  
  GitHub: [@lalimasingh2004-glitch](https://github.com/lalimasingh2004-glitch)
 
 
